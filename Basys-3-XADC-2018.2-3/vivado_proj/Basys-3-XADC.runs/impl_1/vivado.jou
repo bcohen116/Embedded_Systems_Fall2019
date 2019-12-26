@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Dec  5 14:49:57 2019
+# Process ID: 11896
+# Current directory: F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.runs/impl_1
+# Command line: vivado.exe -log XADCdemo.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source XADCdemo.tcl -notrace
+# Log file: F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.runs/impl_1/XADCdemo.vdi
+# Journal file: F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source XADCdemo.tcl -notrace

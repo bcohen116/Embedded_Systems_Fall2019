@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sim_1/new/testbench.v,1575761601,verilog,,,,testbench,,,,,,,,
+F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/XADCdemo.v,1575774473,verilog,,F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/bin2dec.v,,XADCdemo,,,,,,,,
+F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/bin2dec.v,1575575099,verilog,,F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sim_1/new/testbench.v,,bin2dec,,,,,,,,
+,,,,,,xadc_wiz_0,,,,,,,,

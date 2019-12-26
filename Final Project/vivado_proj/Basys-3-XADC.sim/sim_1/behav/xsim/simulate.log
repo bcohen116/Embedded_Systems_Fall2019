@@ -1,0 +1,15 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+WARNING: file design.txt could not be opened
+ *** Warning: The analog data file design.txt for XADC instance testbench.uut.XLXI_7.inst was not found. Use the SIM_MONITOR_FILE parameter to specify the analog data file name or use the default name: design.txt.
+
+WARNING: file design.txt could not be opened
+ *** Warning: The analog data file design.txt for XADC instance testbench.uut.XLXI_7.inst was not found. Use the SIM_MONITOR_FILE parameter to specify the analog data file name or use the default name: design.txt.
+
+Stopped at time : 10 ns : File "F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/XADCdemo.v" Line 236
+Stopped at time : 51490050 ns : File "F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/XADCdemo.v" Line 266
+Stopped at time : 51490070 ns : File "F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/XADCdemo.v" Line 266
+Stopped at time : 400000010 ns : File "F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/XADCdemo.v" Line 273
+Stopped at time : 400000010 ns : File "F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/XADCdemo.v" Line 275
+random number is:           1
+Stopped at time : 400000030 ns : File "F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/XADCdemo.v" Line 284

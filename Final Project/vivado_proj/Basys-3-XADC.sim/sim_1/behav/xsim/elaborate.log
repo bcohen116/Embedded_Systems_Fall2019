@@ -1,0 +1,18 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: F:/Xilinx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto b7a64c337e5141178a16635c2f199327 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot testbench_behav xil_defaultlib.testbench xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 16 for port 'di_in' [F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/XADCdemo.v:72]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 1 for port 'dwe_in' [F:/Users/Ben/Downloads/Basys-3-XADC-2018.2-3/vivado_proj/Basys-3-XADC.srcs/sources_1/imports/hdl/XADCdemo.v:73]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module unisims_ver.XADC(INIT_41=16'b010000110101111...
+Compiling module xil_defaultlib.xadc_wiz_0
+Compiling module xil_defaultlib.bin2dec
+Compiling module xil_defaultlib.XADCdemo
+Compiling module xil_defaultlib.testbench
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot testbench_behav
